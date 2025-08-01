@@ -1,0 +1,13 @@
+streamlit
+flask
+flask-cors
+requests
+pandas
+numpy
+scikit-learn
+PyMuPDF
+python-docx
+python-pptx
+tqdm
+ollama
+
